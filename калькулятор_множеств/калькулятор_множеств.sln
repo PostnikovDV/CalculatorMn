@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "калькулятор_множеств", "калькулятор_множеств\калькулятор_множеств.csproj", "{A2EF8C75-A4AC-4CEB-AB3C-016C029DBA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2EF8C75-A4AC-4CEB-AB3C-016C029DBA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EF8C75-A4AC-4CEB-AB3C-016C029DBA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EF8C75-A4AC-4CEB-AB3C-016C029DBA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EF8C75-A4AC-4CEB-AB3C-016C029DBA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1E5D05-FCBB-4A85-9196-FE3292D6948E}
+	EndGlobalSection
+EndGlobal
